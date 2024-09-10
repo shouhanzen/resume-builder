@@ -1,0 +1,48 @@
+Hanzen Shou
+(408) 636-3041 | shouhanzen@gmail.com | LinkedIn | Portfolio | 9095 Sydney Ct. La Jolla, CA
+
+EDUCATION
+University of California, San Diego
+Bachelor of Science in Computer Science (GPA: 3.80)
+Expected Graduation: June 2025 – La Jolla, CA
+
+Relevant Coursework: Operating Systems, Machine Learning, Algorithms, Software Engineering, Data Structures (C++), Programming Languages, Computer Architecture
+Awards: Regents Scholar, STAR Award
+
+SKILLS
+Languages: Python, TypeScript, Go, C/C++, Bash, Shell
+AI/ML Frameworks: PyTorch, Huggingface, vllm
+Cloud & Infrastructure: Docker, Kubernetes, Helm, AWS, Google Cloud, Jupyter
+Web Technologies: React.js, Node.js, FastAPI, Next.js, Electron
+Tool Automation: Make, CMake, GitHub Actions, CI/CD
+AI Techniques: LLMs, agent-based systems, prompt engineering, vector search, knowledge graphs, evaluation frameworks
+EXPERIENCE
+Cloud Infrastructure Engineer
+Autodesk — San Francisco, CA
+June 2024 – Present
+
+Spearheaded development of the Design-Based Code Generation Platform, integrating LLM-based automation to optimize production environments.
+Partnered with interdisciplinary teams to drive system evolution, resulting in a 50% improvement in codebase migrations.
+Developed full-stack components (frontend, backend, AWS cloud), ensuring seamless deployment and system stability.
+Acquired internal funding by presenting at company-wide All Hands and leadership events, highlighting AI-driven solutions.
+Part-Time Software Engineer
+University of California, San Diego — La Jolla, CA
+February 2023 – August 2024
+
+Led the development of TritonGPT, an LLM-powered chatbot serving 560+ leadership members; enhanced deployment time by 75% through automation.
+Implemented DSMLP services for over 3000 students and 50+ instructors, managing cloud infrastructure at scale.
+Reduced CI/CD costs by 20% through innovative approaches such as layer caching and custom GitHub Actions runners.
+Collaborated cross-functionally on an LLM-powered note-taking app, aligning with leadership needs and driving adoption.
+Software Developer Intern
+Qualcomm Institute — La Jolla, CA
+January 2024 – June 2024
+
+Contributed to the creation of a digital twin model of UC San Diego, applying AI techniques to synchronize real-time data across campus operations.
+Collaborated with an 8-person team, presenting weekly updates and novel ideas to ensure project alignment with institute goals.
+PROJECTS
+Image Segmentation AI – Python
+Team-based academic project
+
+Developed a deep learning model for image segmentation with 70% accuracy, leveraging PyTorch and optimization techniques.
+Led collaboration between 4 team members using Git, maintaining a smooth development cycle with efficient merges and rebases.
+Presented findings in a research report formatted for Arxiv, showcasing technical insights and results.
